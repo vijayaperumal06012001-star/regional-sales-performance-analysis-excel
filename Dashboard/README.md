@@ -7,6 +7,8 @@ This project analyzes regional sales data using **Microsoft Excel**, focusing on
 
 ---
 
+PPT Public View: (https://www.canva.com/design/DAGptCRzk_U/qhKVo8krUK8Xo0OF3wFS2A/view?utm_content=DAGptCRzk_U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfd096b89c7)
+
 ## Business Problem
 ABC Electronics lacks a consolidated view of sales performance across regions and product categories. Without structured analysis and visualization, decision-makers struggle to identify growth opportunities, pricing impacts, and inventory priorities.
 
